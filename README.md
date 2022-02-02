@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Vishal.
 
-<a href="https://www.linkedin.com/in/jorge-oliva-29291325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/jolivaSan" target="_blank"><img src="https://img.shields.io/badge/-Coorporate_Account-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/VShingala" target="_blank"><img src="https://img.shields.io/badge/-VShingala-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
 I´m mainly a backend developer, but more than one time I develop also frontend, I´m working as Senior Software Engineer at [Postman](https://www.postman.com/).
 
