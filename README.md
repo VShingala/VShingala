@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋, I'm Vishal.
 
-<!--
-**VShingala/VShingala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/jorge-oliva-29291325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/jolivaSan" target="_blank"><img src="https://img.shields.io/badge/-Coorporate_Account-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-Here are some ideas to get you started:
+I´m mainly a backend developer, but more than one time I develop also frontend, I´m working as Senior Software Engineer at [Postman](https://www.postman.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My stats at github
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VShingala&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VShingala&layout=compact&langs_count=8&count_private=true"/>
+</div>
+
+## 👨‍💻 What i'm working with every day
+
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
+
+## What I really enjoy working with
+ 
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
+ 
+## Other things that I know well
+ 
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />&nbsp;&nbsp;
