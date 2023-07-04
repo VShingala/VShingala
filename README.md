@@ -2,7 +2,7 @@
 
 <a href="https://github.com/VShingala" target="_blank"><img src="https://img.shields.io/badge/-VShingala-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-I´m mainly a backend developer, but more than one time I develop also frontend, I´m working as Senior Software Engineer at [Postman](https://www.postman.com/).
+I´m mainly a backend developer, but more than one time I develop also frontend, I´m working as Software Engineer II at [Postman](https://www.postman.com/).
 
 ## My stats at github
  <div>
