@@ -8,15 +8,16 @@ I´m a full-stack developer and currently working as Software Engineer II at [Po
 
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />&nbsp;&nbsp;
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
 
 ## What I enjoy working with
  
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;&nbsp;
  
 ## Other things that I know well
  
