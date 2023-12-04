@@ -2,15 +2,9 @@
 
 <a href="https://github.com/VShingala" target="_blank"><img src="https://img.shields.io/badge/-VShingala-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-I´m mainly a backend developer, but more than one time I develop also frontend, I´m working as Software Engineer II at [Postman](https://www.postman.com/).
+I´m a full-stack developer and currently working as Software Engineer II at [Postman](https://www.postman.com/).
 
-## My stats at github
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VShingala&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VShingala&layout=compact&langs_count=8&count_private=true"/>
-</div>
-
-## 👨‍💻 What i'm working with every day
+## 👨‍💻 What I'm working with every day
 
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />&nbsp;&nbsp;
@@ -20,7 +14,7 @@ I´m mainly a backend developer, but more than one time I develop also frontend,
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">&nbsp;&nbsp;
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;
 
-## What I really enjoy working with
+## What I enjoy working with
  
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">&nbsp;&nbsp;
  
