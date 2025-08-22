@@ -2,7 +2,7 @@
 
 <a href="https://github.com/VShingala" target="_blank"><img src="https://img.shields.io/badge/-VShingala-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-I´m a full-stack developer and currently working as Senior Engineer at [Postman](https://www.postman.com/).
+I´m a full-stack developer and currently working as Senior Engineer at [Postman](https://www.postman.com/home).
 
 ## 👨‍💻 What I'm working with every day
 
